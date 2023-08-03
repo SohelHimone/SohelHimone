@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" alt="CodingBoy" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMefBCJEQC8y3kYH_FclrV1oEKDn6w3oWgawDWXIh-62HOneTe0s5U7O9RALKG89v5mI8&usqp=CAU"/>
 
-<p align="left"> <img src="file:///home/sohel/Downloads/codingimgae.gif" alt="sohelhimone" /> </p>
+<p align="left"> <img src="file:///home/sohel/Downloads/sohelimage.jpg" alt="sohelhimone" /> </p>
 
 - 💬 Ask me about **MERN**
 

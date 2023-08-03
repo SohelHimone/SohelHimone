@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Sohel Himone</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-<img align="right" alt="CodingBoy" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMefBCJEQC8y3kYH_FclrV1oEKDn6w3oWgawDWXIh-62HOneTe0s5U7O9RALKG89v5mI8&usqp=CAU"/>
+<img align="right" alt="CodingBoy" width="400" src="https://avatars.githubusercontent.com/u/127922896?s=400&u=c894d6fe97290c91e9f55daef33386380916cff1&v=4"/>
 
-<p align="left"> <img src="file:///home/sohel/Downloads/sohelimage.gif" alt="sohelhimone" /> </p>
+
 
 - 💬 Ask me about **MERN**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sohelhimone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sohelhimone" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sohelhimone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sohelhimone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

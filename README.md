@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" alt="CodingBoy" width="400" src="https://avatars.githubusercontent.com/u/127922896?s=400&u=c894d6fe97290c91e9f55daef33386380916cff1&v=4"/>
 
-
+<p>Hey!, I'M Sohel Himone, A Computer Science Graduate With A Passion For Software Development. My Expertise Lies In Mern Stack Development, And I'M Excited To Showcase My Projects And Collaborate With Fellow Developers On Github. Let'S Innovate And Create Amazing Software Together! #Mernstack #Softwaredevelopment #Github</p>
 
 - 💬 Ask me about **MERN**
 
